@@ -1,0 +1,11 @@
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\bin\Debug\Задание 2.exe.config
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\bin\Debug\Задание 2.exe
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\bin\Debug\Задание 2.pdb
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.AssemblyReference.cache
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.SuggestedBindingRedirects.cache
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\obj\Debug\Задание_2.Form1.resources
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\obj\Debug\Задание_2.Properties.Resources.resources
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.GenerateResource.cache
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\obj\Debug\Задание 2.exe
+E:\УЧ_П_мироша\Задание 2\Задание 2\Задание 2\obj\Debug\Задание 2.pdb
